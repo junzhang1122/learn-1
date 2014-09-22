@@ -1,1 +1,2 @@
-git is a control system
+git is distributed a control system
+
